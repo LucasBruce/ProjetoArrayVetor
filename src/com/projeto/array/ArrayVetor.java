@@ -64,12 +64,12 @@ public class ArrayVetor {
 	    }else{
 	    	if(result>6){
 	    	System.out.println("Operação inválida!tente outra vez!...");
-								       }
-								    }
+						         }
+						 }
 	    		                 }
-					          }
-						   }	
-				       }  
+			          }
+			   }	
+		    }  
 	      }
 		}while(result!=6);
 		System.out.println("Programa Finalizado!...");
